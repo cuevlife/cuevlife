@@ -1,3 +1,3 @@
 <div align="center">
-<img src="./profile.gif" width="480" alt="cuevlife" />
+<img src="./profile.gif" width="640" alt="cuevlife" />
 </div>
